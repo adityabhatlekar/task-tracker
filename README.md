@@ -60,7 +60,11 @@ cd client
 npm start
 
 ---
+## Live Demo
+- Frontend: https://task-tracker-iota-ten.vercel.app
+- Backend: https://task-tracker-bi3x.onrender.com
 
+- 
 ## 🔗 API Overview
 GET /tasks → Fetch all tasks  
 POST /tasks → Create a new task  
